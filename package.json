@@ -1,5 +1,5 @@
 {
-  "name": "webpack",
+  "name": "webpack-general2",
   "scripts": {
     "build": "webpack",
     "dev": "webpack serve --env development",
