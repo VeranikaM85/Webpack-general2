@@ -1,1 +1,1 @@
-# Webpack-general2
+# webpack-general2
